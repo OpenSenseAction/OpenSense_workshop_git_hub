@@ -6,4 +6,4 @@ The goals of this workshop are to:
 * Understand the basics of git, github and mybinder
 * Understand the sandbox environment and to be able to contribute to the sandbox  
 
-Slides and more information is available in tba..
+Slides and more information is available in ..
